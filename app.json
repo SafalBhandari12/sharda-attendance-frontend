@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "MyAttendanceApp",
+    "slug": "MyAttendanceApp",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.example.myattendanceapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e849920a-e275-4b63-a884-6e61a7cb414f"
+      }
+    }
+  }
+}
